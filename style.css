@@ -1,0 +1,9 @@
+form, .profil {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+h1{
+    text-align: left;
+}
